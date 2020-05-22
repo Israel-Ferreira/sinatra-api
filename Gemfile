@@ -14,7 +14,7 @@ gem "rake", "~> 13.0"
 
 gem "sinatra-contrib", "~> 2.0"
 
-gem "puma", "~> 4.2"
+gem "puma", "~> 4.3"
 
 gem "foreman", "~> 0.86.0"
 
